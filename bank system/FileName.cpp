@@ -8,7 +8,7 @@ const int max_transaction = 5;
 const int max_customers = 135;         //per day (5 working days per week) 35000/365-(2*52) = 135
 const int work_time_minutes = 480;     //8 AM - 4 PM 
 
-// hello this is fady
+// hello world 
 string transaction_names[max_transaction];
 bool tellerSkills[max_teller][max_transaction] = { false };   //start no skills
 int avgDurations[max_transaction];
