@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\fadya\Desktop\spring 2025\C++\bank system\bank system\FileName.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fadya\Desktop\spring 2025\C++\bank system\bank system\FileName.cpp(162,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  bank system.vcxproj -> C:\Users\fadya\Desktop\spring 2025\C++\bank system\x64\Debug\bank system.exe
