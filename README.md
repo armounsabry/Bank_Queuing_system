@@ -28,7 +28,7 @@ It helped me understand how to break down real-world scenarios into code and sim
 
 1. Clone or download the project.
 2. Open the source files in your C++ IDE.
-3. Compile and run the `main.cpp` file.
+3. Compile and run the `filename.cpp` file.
 4. Follow the on-screen instructions to simulate bank operations.
 
 ---
